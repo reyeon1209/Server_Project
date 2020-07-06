@@ -11,8 +11,8 @@ client.fetch(url_2020, param, function(err, $, res){
 
 
    $(".sortable >tbody>tr>td:nth-child(1)").each(function(post) {
-     var title2019_ing = [];
-     var title2019_end = [];
+     var title2020_ing = [];
+     var title2020_1 = [];
      var name = $(this).children('a');
      var color = $(this).parent().attr('style');
      if(color == "background-color:#E5E5E5"){
@@ -20,22 +20,17 @@ client.fetch(url_2020, param, function(err, $, res){
        return false;
      }
      if(color == "background-color:#FFFF99"){
-       title2019_ing.push(name.text());
+       title2020_1.push(name.text());
      }
-     else{
-       title2019_end.push(name.text());
-     }
-
      //배열에서 공백은 제외하고 출력
-     if(title2019_ing != ""){
-        console.log(title2019_ing);
+     if(title2020_1 != ""){
+        title2020_ing = title2020_1;
+        console.log(title2020_ing);
      }
 
      // 방영종료 드라마 출력
      // if(title2019_end != ""){
      //    console.log(title2019_end);
      // }
-   }
- );
- }
-);
+   });
+ });
