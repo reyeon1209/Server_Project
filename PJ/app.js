@@ -8,6 +8,7 @@ const app = express();
 app.use('/', (req, res, next) => {
   if (req.originalUrl === '/' || req.originalUrl === '/index.html') {
     res.send(Home());
+    return ;
   }
   next();
 });

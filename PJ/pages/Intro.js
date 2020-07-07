@@ -8,8 +8,7 @@ const fetchData = require('../src/fetchData');
 const drawDramaInfo = (isOnAir, year, idx) => {
   const data = fetchData(isOnAir, year);
   const dramaData = data[idx];
-  const dramaImg = '/D2.png';
-  const {dramaName, rate, content, url} = dramaData;
+  const {dramaImg, dramaName, rate, content, url} = dramaData;
 
   return DramaInfo(dramaImg, dramaName, rate, content, url);
 };

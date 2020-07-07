@@ -10,7 +10,7 @@ const DramaInfo = (dramaImg, dramaName, rate, content, url) => {
         <h4>${rate}</h4>
         <p class="card-text">${content}</p>
         <hr>
-        <a href="#" class="btn btn-success">${url}</a>
+        <a href="${url}" class="btn btn-success">공식 홈페이지</a>
       </div>
     </div>
     <!-- /.card -->
