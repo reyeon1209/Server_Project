@@ -1,12 +1,12 @@
-const getTitle = require('../components/getTitle');
+const GetTitle = require('../components/GetTitle');
 const Footer = require('../components/Footer');
 const CharInfo = require('../components/CharInfo');
 const RecommendTitle = require('../components/RecommendTitle');
 const DramaInfo = require('../components/DramaInfo');
-const fetchData = require('../src/fetchData');
+const FetchData = require('../src/FetchData');
 
 const drawDramaInfo = (isOnAir, year, idx) => {
-  const data = fetchData(isOnAir, year);
+  const data = FetchData(isOnAir, year);
   const dramaData = data[idx];
   const {dramaImg, dramaName, rate, content, url} = dramaData;
 
@@ -14,7 +14,7 @@ const drawDramaInfo = (isOnAir, year, idx) => {
 };
 
 const drawCharInfo = (isOnAir, year, idx) => {
-  const data = fetchData(isOnAir, year);
+  const data = FetchData(isOnAir, year);
   const dramaData = data[idx];
   const characters = dramaData.characters;
 
@@ -25,7 +25,7 @@ const drawCharInfo = (isOnAir, year, idx) => {
 };
 
 const drawRecommendTitle = (isOnAir, year, idx) => {
-  const data = fetchData(isOnAir, year);
+  const data = FetchData(isOnAir, year);
   const dramaData = data[idx];
   const recommendations = dramaData['recommendTitle'];
 
@@ -48,7 +48,7 @@ const Intro = (isOnAir, year, idx) => {
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Shop Item - Start Bootstrap Template</title>
+  <title>dramarket</title>
 
   <!-- Bootstrap core CSS -->
   <link href="/vendor/bootstrap/css/intro.css" rel="stylesheet">
@@ -61,7 +61,7 @@ const Intro = (isOnAir, year, idx) => {
 
 <body>
 
-  ${getTitle()}
+  ${GetTitle()}
 
 
   <!-- Page Content -->
@@ -77,7 +77,7 @@ const Intro = (isOnAir, year, idx) => {
         </div>
 
         <div class="card card-outline-secondary my-4">
-          <!-- 추천 드라마..... -->
+          <!-- 추천 드라마 -->
         </div>
         <!-- /.card -->
       </div>

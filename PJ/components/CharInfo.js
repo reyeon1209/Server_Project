@@ -10,7 +10,6 @@ const CharInfo = (characters) => {
               <p class="card-text">${characters.realName}</p>
             </div>
             <div class="card-footer">
-
             </div>
           </div>
         </div>

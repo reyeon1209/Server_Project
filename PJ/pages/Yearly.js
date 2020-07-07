@@ -1,7 +1,7 @@
-const getTitle = require('../components/getTitle');
+const GetTitle = require('../components/GetTitle');
 const Footer = require('../components/Footer');
 const DramaCell = require('../components/DramaCell');
-const fetchData = require('../src/fetchData');
+const FetchData = require('../src/FetchData');
 
 const dataToCell = (dramaData, isOnAir, year, idx) => {
   const dramaImg = dramaData.dramaImg;
@@ -12,7 +12,7 @@ const dataToCell = (dramaData, isOnAir, year, idx) => {
 const YearlyDramaGrid = (year) => {
   const IS_ON_AIR = false;
 
-  const yearlyData = fetchData(false, year);
+  const yearlyData = FetchData(false, year);
   const DramaCellArray = yearlyData.map((oneDramaData, idx) =>
     dataToCell(oneDramaData, IS_ON_AIR, year, idx)
   );
@@ -33,7 +33,7 @@ const Yearly = (year) => {
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Shop Homepage - Start Bootstrap Template</title>
+  <title>dramarket</title>
 
   <!-- Bootstrap core CSS -->
   <link href="/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -43,21 +43,19 @@ const Yearly = (year) => {
   <link href="/css/mycss.css" rel="stylesheet">
 
   <style>
-
     a.list-group-item:hover {
       background-color: #9DE0E7;
     }
-
   </style>
 
 </head>
 
 <body>
-  ${getTitle()}
+  ${GetTitle()}
   <!-- Navigation -->
 
   <div class="col-lg-2 col-md-2 mb-2 years pad">
-    <h3 class="my-4">${year}년도</h3> <!--*********************-->
+    <h3 class="my-4">${year}년도</h3>
     <div class="list-group">
       <a href="/end/2020" class="list-group-item">2020</a>
       <a href="/end/2019" class="list-group-item">2019</a>
