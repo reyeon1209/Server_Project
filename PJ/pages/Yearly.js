@@ -57,9 +57,9 @@ const Yearly = (year) => {
   <!-- Navigation -->
 
   <div class="col-lg-2 col-md-2 mb-2 years pad">
-    <h3 class="my-4">2020년도</h3> <!--*********************-->
+    <h3 class="my-4">${year}년도</h3> <!--*********************-->
     <div class="list-group">
-      <a href="/end/2020" class="list-group-item active">2020</a>
+      <a href="/end/2020" class="list-group-item">2020</a>
       <a href="/end/2019" class="list-group-item">2019</a>
       <a href="/end/2018" class="list-group-item">2018</a>
       <a href="/end/2017" class="list-group-item">2017</a>
