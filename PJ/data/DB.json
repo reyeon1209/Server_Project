@@ -537,42 +537,6 @@
       "recommendTitle" : [ "한국방송공사 TV 소설", "내 마음의 꽃비2016년", "TV 소설 일편단심 민들레2014년 ~ 2015년", "복희 누나2011년 ~ 2012년", "스웨덴 세탁소2014년 ~ 2015년" ],
       "url" : "http://program.kbs.co.kr/2tv/drama/theblueday/"
     },
-    "-MBduGVIhLqcdI7i_Y7j" : {
-      "broadcast" : "tvN",
-      "characters" : [ {
-        "characterName" : "한열",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44ec445f10cc52f3ece81de4a9c53f3615b0a148",
-        "realName" : "이동건"
-      }, {
-        "characterName" : "차미래",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F14baed377a3c19e49ff564a193d4f8ac927ffa37",
-        "realName" : "이유리"
-      }, {
-        "characterName" : "차사랑",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa3eae43f80c051443b0921f8888792d84b17b248",
-        "realName" : "이레"
-      }, {
-        "characterName" : "닥터 신",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1f4d9b78d60f7b3eb25d78994c2ee05bddc179d",
-        "realName" : "서준영"
-      }, {
-        "characterName" : "황지혜",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fada71bcc8ad2aaef5454a167047c22f06ce3a019",
-        "realName" : "서예지"
-      } ],
-      "content" : "한 때는 화목한 가정을 꿈꿨지만 미래에게 차인 후 지금은 평생 혼자사는 것이 목표인 아웃사이더 독신남 한열 앞에 10년 만에 불현듯 나타나 결혼하자고 말하는 싱글맘 닥터 차미래 그리고 그저 아빠가 갖고싶은 미운 아홉살 사랑이의 강제일촌만들기를 그린 드라마",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe0cfe5ba7fbcd72b0a19ee1627cd9b1190039b19",
-      "dramaName" : "슈퍼대디 열",
-      "rate" : "",
-      "recommendTitle" : [ "이웃집 꽃미남2013년", "네 멋대로 해라2002년", "반짝반짝 빛나는2011년", "치즈인더트랩2016년", "결혼의 꼼수2012년" ]
-    },
-    "-MBduGVOs8rx-YWWQ56g" : {
-      "broadcast" : "KBS2",
-      "content" : "다양하고 완성도 있는 이야기로 제작된 단편 드라마를 방영하는 프로그램",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2a2c383833bf6ac3151062cb230ab9722ae2aad",
-      "dramaName" : "2015 KBS 드라마 스페셜",
-      "rate" : ""
-    },
     "-MBduGVjUqaw9By5U8LW" : {
       "broadcast" : "KBS2",
       "characters" : [ {
@@ -778,12 +742,6 @@
       "rate" : "10.8%",
       "recommendTitle" : [ "미녀 공심이2016년", "흑기사2017년 ~ 2018년", "다시 만난 세계2017년", "싸우자 귀신아2016년", "하이드 지킬, 나2015년" ],
       "url" : "http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000007174"
-    },
-    "-MBduGYHqLZeaN8_IInJ" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "웃기는 남자",
-      "rate" : ""
     },
     "-MBduGYbO6qKtxKCa7PG" : {
       "broadcast" : "tvN",
@@ -2359,12 +2317,6 @@
       "recommendTitle" : [ "청담동 살아요2011년 ~ 2012년", "이번 주 아내가 바람을 핍...2016년", "트로트의 연인2014년", "아름다운 날들2001년", "천 번의 입맞춤2011년 ~ 2012년" ],
       "url" : "http://tv.jtbc.joins.com/songgot?cloc=jtbc|program|drama"
     },
-    "-MBduGkFtF8aDWuqqynA" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "짝통 패밀리",
-      "rate" : ""
-    },
     "-MBduGkVG1dctczJg7vg" : {
       "broadcast" : "tvN",
       "characters" : [ {
@@ -2749,13 +2701,6 @@
       "rate" : "20.3%",
       "recommendTitle" : [ "피고인2017년", "맨투맨2017년", "이판사판2017년 ~ 2018년", "귓속말2017년", "닥터 프리즈너2019년" ],
       "url" : "http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000008869"
-    },
-    "-MBduGmvFUBm10ykE1JK" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "풍당풍당 Love",
-      "rate" : "",
-      "recommendTitle" : [ "우주의 별이2017년", "장영실2016년", "밤을 걷는 선비2015년", "뿌리깊은 나무2011년", "생동성 연애2017년" ]
     },
     "-MBduGn8jzqFjcuyb-sG" : {
       "broadcast" : "SBS",
@@ -3233,7 +3178,8 @@
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F56C2B9E70246EC0002",
       "dramaName" : "아이가 다섯",
       "rate" : "32.8%",
-      "recommendTitle" : [ "신기생뎐2011년", "고결한 그대2015년", "부탁해요, 엄마2015년 ~ 2016년", "오 마이 비너스2015년 ~ 2016년", "레벨업2019년" ]
+      "recommendTitle" : [ "신기생뎐2011년", "고결한 그대2015년", "부탁해요, 엄마2015년 ~ 2016년", "오 마이 비너스2015년 ~ 2016년", "레벨업2019년" ],
+      "url" : "#"
     },
     "-MBdu2WrL03FeZbtClYx" : {
       "broadcast" : "KBS2",
@@ -4822,7 +4768,8 @@
       "content" : "다양하고 완성도 있는 이야기로 제작된 단편 드라마를 방영하는 프로그램 ",
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5747D81F014B6E0001",
       "dramaName" : "2016 KBS 드라마 스페셜",
-      "rate" : ""
+      "rate" : "",
+      "url" : "#"
     },
     "-MBdu2k2mn9zJ4dtlCWm" : {
       "broadcast" : "KBS2",
@@ -5417,12 +5364,6 @@
       "recommendTitle" : [ "별에서 온 그대2013년 ~ 2014년", "더 킹 : 영원의 군주2020년", "시티헌터2011년", "신의2012년", "사의 찬미2018년" ],
       "url" : "https://programs.sbs.co.kr/drama/bluesea/"
     },
-    "-MBdu2oKAXAjIbR0aq55" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "아득히 먼 층",
-      "rate" : ""
-    },
     "-MBdu2o_9GK27gEI5ByV" : {
       "broadcast" : "MBC",
       "characters" : [ {
@@ -5658,7 +5599,8 @@
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5840F57302784C0001",
       "dramaName" : "솔로몬의 위증",
       "rate" : "1.731%",
-      "recommendTitle" : [ "학교 20172017년", "후아유 ‑ 학교 20152015년", "선암여고 탐정단2014년 ~ 2015년", "미스티2018년", "친애하는 당신에게2012년" ]
+      "recommendTitle" : [ "학교 20172017년", "후아유 ‑ 학교 20152015년", "선암여고 탐정단2014년 ~ 2015년", "미스티2018년", "친애하는 당신에게2012년" ],
+      "url" : "#"
     },
     "-MBdu2qAkM0-c_jyUufS" : {
       "broadcast" : "KBS2",
@@ -5930,13 +5872,6 @@
       "rate" : "16.3%",
       "recommendTitle" : [ "7일의 왕비2017년", "미스터 션샤인2018년", "엽기적인 그녀2017년", "푸른 바다의 전설2016년 ~ 2017년", "수상한 파트너2017년" ],
       "url" : "http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000010141"
-    },
-    "-MBdtpgKZGhdbdfKehPg" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "역적 : 백성을 훔친 도적",
-      "rate" : "",
-      "recommendTitle" : [ "쾌도 홍길동2008년", "아랑사또전2012년", "7일의 왕비2017년", "구가의 서2013년", "백일의 낭군님2018년" ]
     },
     "-MBdtpg_SfHx5yj_sD_D" : {
       "broadcast" : "tvN",
@@ -6323,7 +6258,8 @@
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F76c221f53f36bd8201ab3dbb209050996a699a3723539adf0f740885bbc57044",
       "dramaName" : "파워레인저 다이노포스 브레이브",
       "rate" : "",
-      "recommendTitle" : [ "수전전대 쿄류저2013년 ~ 2014년", "Super Sentai Stronges...2019년", "열차전대 토큐저2014년 ~ 2015년", "동물전대 주오저2016년 ~ 2017년", "특명전대 고버스터즈2012년 ~ 2013년" ]
+      "recommendTitle" : [ "수전전대 쿄류저2013년 ~ 2014년", "Super Sentai Stronges...2019년", "열차전대 토큐저2014년 ~ 2015년", "동물전대 주오저2016년 ~ 2017년", "특명전대 고버스터즈2012년 ~ 2013년" ],
+      "url" : "#"
     },
     "-MBdtpjfCJmrsJ4KigSA" : {
       "broadcast" : "KBS2",
@@ -6715,13 +6651,6 @@
       "recommendTitle" : [ "역류이상적니2019년", "돌아온 황금복2015년", "별별 며느리2017년", "위대한 조강지처2015년", "왼손잡이 아내2019년" ],
       "url" : "http://www.imbc.com/broad/tv/drama/bokdanji/"
     },
-    "-MBdtpnMH-gOXi07EeuL" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "써클 : 이어진 두세계",
-      "rate" : "",
-      "recommendTitle" : [ "너도 인간이니?2018년", "절대 그이2019년", "사이코메트리 그녀석2019년", "내성적인 보스2017년", "구해줘2017년" ]
-    },
     "-MBdtpn_agez_LoyXhoC" : {
       "broadcast" : "KBS2",
       "characters" : [ {
@@ -6986,7 +6915,8 @@
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff60bd8ac0946c15c661a3a42efb0c494bd00ac9dc02237e185ae8754b266c387",
       "dramaName" : "비밀의 숲",
       "rate" : "",
-      "recommendTitle" : [ "나쁜 녀석들 : 악의 도시2017년 ~ 2018년", "보이스2017년", "수상한 파트너2017년", "터널2017년", "블랙2017년" ]
+      "recommendTitle" : [ "나쁜 녀석들 : 악의 도시2017년 ~ 2018년", "보이스2017년", "수상한 파트너2017년", "터널2017년", "블랙2017년" ],
+      "url" : "#"
     },
     "-MBdtppPfVulFOp45RZ-" : {
       "broadcast" : "SBS",
@@ -7254,7 +7184,8 @@
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F24df3fe9b47694172e740726961ab072144774433b7af50a0e5b15d00948047a",
       "dramaName" : "크리미널 마인드",
       "rate" : "",
-      "recommendTitle" : [ "크리미널 마인드 : 비욘드...2016년 ~ 2017년", "크리미널 마인드: 워싱턴...2011년", "성범죄수사대: SVU1999년 ~", "CSI: 마이애미2002년 ~ 2012년", "NCIS2003년 ~" ]
+      "recommendTitle" : [ "크리미널 마인드 : 비욘드...2016년 ~ 2017년", "크리미널 마인드: 워싱턴...2011년", "성범죄수사대: SVU1999년 ~", "CSI: 마이애미2002년 ~ 2012년", "NCIS2003년 ~" ],
+      "url" : "#"
     },
     "-MBdtprF87c4TVACQJ-U" : {
       "broadcast" : "KBS2",
@@ -7531,7 +7462,8 @@
       "content" : "다양하고 완성도 있는 이야기로 제작된 단편 드라마를 방영하는 프로그램",
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F10f14646d1d8eba82951f797c4392a8c3ea9c6c32b76f349695c9c0306b47df5",
       "dramaName" : "2017 KBS 드라마 스페셜",
-      "rate" : ""
+      "rate" : "",
+      "url" : "#"
     },
     "-MBdtptGVSazj4MtYLwR" : {
       "broadcast" : "KBS2",
@@ -7931,7 +7863,8 @@
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbd44e6ccf9adcd5ae66f9ca8e3f1c2e5eaf81eb85f24584a1396cf0add171490",
       "dramaName" : "정마담의 마지막 일주일",
       "rate" : "3.7%",
-      "recommendTitle" : [ "강덕순 애정 변천사2017년 ~", "로즈마리2003년 ~", "4월의 키스2004년", "미워도 다시 한 번2009년", "두번째 프러포즈2004년" ]
+      "recommendTitle" : [ "강덕순 애정 변천사2017년 ~", "로즈마리2003년 ~", "4월의 키스2004년", "미워도 다시 한 번2009년", "두번째 프러포즈2004년" ],
+      "url" : "#"
     },
     "-MBdtpwT9TKb7_g-Rqz3" : {
       "broadcast" : "KBS2",
@@ -7960,7 +7893,8 @@
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fec048f368678dab708a02e6fe5ff75eedd75b5f818efef281c3182bd45c6f684",
       "dramaName" : "강덕순 애정 변천사",
       "rate" : "",
-      "recommendTitle" : [ "로즈마리2003년 ~", "4월의 키스2004년", "두번째 프러포즈2004년", "미워도 다시 한 번2009년", "황금사과2005년 ~ 2006년" ]
+      "recommendTitle" : [ "로즈마리2003년 ~", "4월의 키스2004년", "두번째 프러포즈2004년", "미워도 다시 한 번2009년", "황금사과2005년 ~ 2006년" ],
+      "url" : "#"
     },
     "-MBdtpwi6RoatNFgqHW5" : {
       "broadcast" : "JTBC",
@@ -7997,7 +7931,8 @@
       "content" : "유쾌 상쾌 통쾌 가족드라마! 추석특집극 언제나 해피엔딩",
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb1aa1db552832204260a92cfb60a784d161ee2645b8e1df808f15562f2ebcd2b",
       "dramaName" : "언제나 해피엔딩",
-      "rate" : "3.2%"
+      "rate" : "3.2%",
+      "url" : "#"
     },
     "-MBdtpx7vnzfQ072y8MF" : {
       "broadcast" : "KBS2",
@@ -8712,13 +8647,6 @@
       "recommendTitle" : [ "밥상 차리는 남자2017년 ~ 2018년", "손 꼭 잡고, 지는 석양을...2018년", "황금주머니2016년 ~ 2017년", "당신은 너무합니다2017년", "위대한 유혹자2018년" ],
       "url" : "http://www.imbc.com/broad/tv/drama/enemies/"
     },
-    "-MBdtq19KprqnH83QSgr" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "tvN 드라마 스테이지 1기",
-      "rate" : "",
-      "recommendTitle" : [ "위대한 쇼2019년", "변혁의 사랑2017년", "이번 생은 처음이라2017년", "청일전자 미쓰리2019년", "아르곤2017년" ]
-    },
     "-MBdtq1KsUEYQTJZvHcH" : {
       "broadcast" : "tvN",
       "characters" : [ {
@@ -8966,29 +8894,6 @@
       "recommendTitle" : [ "뷰티 인사이드2018년", "눈이 부시게2019년", "밥 잘 사주는 예쁜 누나2018년", "남자친구2018년 ~ 2019년", "청춘시대2016년" ],
       "url" : "http://tv.jtbc.joins.com/rainshine"
     },
-    "-MBdtq2znSG4MmhKQtMX" : {
-      "broadcast" : "tvN",
-      "characters" : [ {
-        "characterName" : "강미나",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1d832f149724edfc39bb1b6866792b8ea6baace4b2662201aed5f57cae218a8f",
-        "realName" : "미나"
-      }, {
-        "characterName" : "종민",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F905feafb30f29d7a6c77217a628b8905dc3ffca7654c94ac60522928dfaba00b",
-        "realName" : "변우석"
-      } ],
-      "content" : "늘 함께일 줄 알았던 내 남사친에게 여자친구가 생겼다..?! 열일곱, 설렘이 시작된 초능력 소녀의 첫사랑(?) 되찾기 프로젝트",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff3d18976e0757916b73c667074389baacede4870d41e7a34e1c5ead8c69f87e2",
-      "dramaName" : "직립 보행의 역사",
-      "rate" : ""
-    },
-    "-MBdtq32IOyGbbsylCu-" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "나쁜 녀석들 : 악의 도시",
-      "rate" : "",
-      "recommendTitle" : [ "나쁜 녀석들2014년", "비밀의 숲2017년", "모두의 거짓말2019년", "블랙2017년", "38사기동대2016년" ]
-    },
     "-MBdtq3AFGM_un9xSn-y" : {
       "broadcast" : "tvN",
       "characters" : [ {
@@ -8999,7 +8904,8 @@
       "content" : "자살에 실패한 남자가 아이러니하게 유품 정리업체 직원이 되어 벌어지는 삶과 죽음의 경계에 선 사람들의 훈훈한 감동 스토리를 담아낸 드라마",
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fe6b80cbdb12ae6d7849bcc7cfc7536c98c2f5ebdc74efb8b546da9f3708c87f4",
       "dramaName" : "소풍 가는 날",
-      "rate" : ""
+      "rate" : "",
+      "url" : "#"
     },
     "-MBdtq3Jqn-xoAPKq4qh" : {
       "broadcast" : "tvN",
@@ -9942,7 +9848,8 @@
       "content" : "우리 사회의 심각한 사회문제로 부각되는 노인 자살을 소재로 한 내용을 그린 드라마",
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F567587398f507cf641ebed3a24a88c56b68c3efc014be3be7034219ce3951728",
       "dramaName" : "빨간 구두",
-      "rate" : ""
+      "rate" : "",
+      "url" : "#"
     },
     "-MBdtZKoE0j2ZPVizVuG" : {
       "broadcast" : "KBS2",
@@ -10299,14 +10206,8 @@
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F53dfcc7866f3b25afac9966856ec796475c95cf3b46dd03788e9d17def340d80",
       "dramaName" : "단짠 오피스",
       "rate" : "",
-      "recommendTitle" : [ "위풍당당 그녀2003년", "네 자매 이야기2001년", "홍콩 익스프레스2005년", "꽃 피어라 달순아!2017년 ~ 2018년", "시골경찰2017년 ~" ]
-    },
-    "-MBdtZNenK1gxNTN3Zw-" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "멈추고 싶은 순간 : 어바웃 타임",
-      "rate" : "",
-      "recommendTitle" : [ "여우각시별2018년", "학교 20172017년", "낭만닥터 김사부 22020년", "닥터스2016년", "당신이 잠든 사이에2017년" ]
+      "recommendTitle" : [ "위풍당당 그녀2003년", "네 자매 이야기2001년", "홍콩 익스프레스2005년", "꽃 피어라 달순아!2017년 ~ 2018년", "시골경찰2017년 ~" ],
+      "url" : "#"
     },
     "-MBdtZNnO0kVYqgiZbRq" : {
       "broadcast" : "JTBC",
@@ -10995,41 +10896,6 @@
       "recommendTitle" : [ "어비스2019년", "시카고 타자기2017년", "사이코메트리 그녀석2019년", "하이바이, 마마!2020년", "아스달 연대기2019년" ],
       "url" : "http://program.tving.com/tvn/familiarwife"
     },
-    "-MBdtZT-NOxYTg3Cng9O" : {
-      "broadcast" : "투니버스",
-      "characters" : [ {
-        "characterName" : "구하리",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1ddaf0d10eb23471432341db820a9c0281fb1488992256abf56efe3c4849dab7",
-        "realName" : "박지예"
-      }, {
-        "characterName" : "최강림",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6bcdabda257ab0adfb6888cc5d5b530733996adcc7015a3186cbf2cf328de52f",
-        "realName" : "현준"
-      }, {
-        "characterName" : "이가은",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F27931e1fa534bd5672b080e283640c7870592b35f53887bfed4673a1c67b8f5f",
-        "realName" : "장소정"
-      }, {
-        "characterName" : "김현우",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F7b15890f935888ffe31e3b13ae61d0c46427d1449d781658bd2c3820afcd4773",
-        "realName" : "정성영"
-      }, {
-        "characterName" : "구하리",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1ddaf0d10eb23471432341db820a9c0281fb1488992256abf56efe3c4849dab7",
-        "realName" : "박지예"
-      } ],
-      "content" : "겨울방학을 맞은 아이들이 산속 펜션에 놀러 가 겪는 오싹한 경험을 담은 드라마",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1b5ecbad53c62f03e1cf6b3312ff07a7fb5bcffc691453ff8881175acd6ded01",
-      "dramaName" : "신비아파트 외전: 기억, 하리",
-      "rate" : "",
-      "recommendTitle" : [ "신비아파트 극장판", "신비아파트: 고스트볼 X의...2017년 ~", "신비아파트: 고스트볼 더...2020년 ~", "신비아파트: 고스트볼의...2016년 ~", "조아서 구독중" ]
-    },
-    "-MBdtZT7WWRmQnJu67GL" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "보이스 2 - 혐오의 시대",
-      "rate" : ""
-    },
     "-MBdtZTGRKAvQOZ7qKH1" : {
       "broadcast" : "KBS2",
       "characters" : [ {
@@ -11087,7 +10953,8 @@
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fd21d05d1436bdd7e56cff7520a27f7c67b7a87b1ab569e90fb69f658d76d925a",
       "dramaName" : "복수노트 2",
       "rate" : "",
-      "recommendTitle" : [ "내 아이디는 강남미인2018년", "복수가 돌아왔다2018년 ~ 2019년", "열여덟의 순간2019년", "학교 20172017년", "달콤한 원수2017년" ]
+      "recommendTitle" : [ "내 아이디는 강남미인2018년", "복수가 돌아왔다2018년 ~ 2019년", "열여덟의 순간2019년", "학교 20172017년", "달콤한 원수2017년" ],
+      "url" : "#"
     },
     "-MBdtZThZtlMfoyV8Ljh" : {
       "broadcast" : "MBC",
@@ -11149,7 +11016,7 @@
       "url" : "http://program.kbs.co.kr/2tv/drama/ladychadalraeslover/pc/"
     },
     "-MBdtZU8dF8But-SRRjm" : {
-      "broadcast" : "",
+      "broadcast" : "tvN",
       "characters" : [ {
         "characterName" : "유혜인",
         "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F33649325aea7140b54b915a87bf1506f5f35b474c27501e185d957f6f31eb6a0",
@@ -11174,7 +11041,8 @@
       "content" : "인턴십을 통해 처음으로 사회생활을 경험하게 된 취업준비생들이 회사 내부에 만연한 젠더 이슈들을 겪으면서 성 차별과 부조리한 문제를 인식하고, 이를 극복하며 성장하는 이야기를 담은 드라마",
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff869618ca05810e397c98ed780920c1eabc1541b853cc320569d69faa9bcbe34",
       "dramaName" : "좀 예민해도 괜찮아",
-      "rate" : ""
+      "rate" : "",
+      "url" : "#"
     },
     "-MBdtZUJl64ClHfoy-sf" : {
       "broadcast" : "KBS2",
@@ -11326,18 +11194,13 @@
       "recommendTitle" : [ "프리스트2018년 ~ 2019년", "특별근로감독관 조장풍2019년", "보이스2017년", "후아유2013년", "오늘의 탐정2018년" ],
       "url" : "http://program.tving.com/ocn/theguest"
     },
-    "-MBdtZVJHJhpU6s0Wua9" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "하라는 공부는 안하고",
-      "rate" : ""
-    },
     "-MBdtZVMkuaYMCnUEQKZ" : {
       "broadcast" : "KBS2",
       "content" : "다양하고 완성도 있는 이야기로 제작된 단편 드라마를 방영하는 프로그램",
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2ddde116111c2709c7732587cbaef50acd6879b96625a2b6c3555e6e550e854e",
       "dramaName" : "2018 KBS 드라마 스페셜",
-      "rate" : ""
+      "rate" : "",
+      "url" : "#"
     },
     "-MBdtZV_XnaiYIdyNDof" : {
       "broadcast" : "KBS2",
@@ -11368,13 +11231,6 @@
       "rate" : "49.4%",
       "recommendTitle" : [ "파랑새의 집2015년", "월계수 양복점 신사들2016년 ~ 2017년", "옥탑방 왕세자2012년", "백일의 낭군님2018년", "흑기사2017년 ~ 2018년" ],
       "url" : "http://program.kbs.co.kr/2tv/drama/myonlyone/pc/"
-    },
-    "-MBdtZViyZxRBQVp2Np-" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "2018 JTBC 드라마페스타",
-      "rate" : "",
-      "recommendTitle" : [ "루왁인간2019년 ~", "안녕 드라큘라2020년", "탁구공2018년", "힙한 선생2017년", "지구형 인간2019년 ~" ]
     },
     "-MBdtZVr_qxpPZ7dPKt_" : {
       "broadcast" : "KBS2",
@@ -11466,33 +11322,6 @@
       "recommendTitle" : [ "산부인과2010년", "피고인2017년", "메디컬 탑팀2013년", "이판사판2017년 ~ 2018년", "닥터 이방인2014년" ],
       "url" : "http://programs.sbs.co.kr/drama/twolivesoneheart"
     },
-    "-MBdtZWWdP2Cgob8be0t" : {
-      "broadcast" : "네이버TV",
-      "characters" : [ {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbbc7c380390a7bd9cc06c5259ba5ab545255c5b12855682251395c248280ed57",
-        "realName" : "이설"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0132ee6090a1f45392e62a393b58dac49d83635f9600e4257fb1c3ebdc8c58cd",
-        "realName" : "배윤경"
-      }, {
-        "characterName" : "",
-        "realName" : ""
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F7f8565a8714f02bdfc066da39b31c0e62e231ee90631752583765da852cf024f",
-        "realName" : "소희"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F5d2d5373e2cd1a5342c477b98b1243b6b5cf3ba2ef5ad96256da9f03c93b0866",
-        "realName" : "유정우"
-      } ],
-      "content" : "자취방을 배경으로 그린 25살 여대생 지연이의 성장 드라마",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbb8904021f86a401cacf8a146f4fda629ba6a98cccd07518b371336355995a27",
-      "dramaName" : "자취, 방",
-      "rate" : ""
-    },
     "-MBdtZWqEeKDuVZQL9jW" : {
       "broadcast" : "JTBC",
       "characters" : [ {
@@ -11522,35 +11351,6 @@
       "rate" : "3.374%",
       "recommendTitle" : [ "일단 뜨겁게 청소하라!!2018년 ~ 2019년", "이번 생은 처음이라2017년", "멜로가 체질2019년 ~", "앙큼한 돌싱녀2014년", "내 아이디는 강남미인2018년" ],
       "url" : "http://tv.jtbc.joins.com/charm/"
-    },
-    "-MBdtZX6fQHDsbc3SI_O" : {
-      "broadcast" : "MBC every1",
-      "characters" : [ {
-        "characterName" : "도은수",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc02df7800536d9c7ab0b4d1b66ac95e2c8886cdce34647e07463b8654be27b1a",
-        "realName" : "이청아"
-      }, {
-        "characterName" : "이지용",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fd665e28d62178301ff486a4e3898244a4cf4d1b9147cdd989307517fe0a2ca36",
-        "realName" : "송원석"
-      }, {
-        "characterName" : "유웅재",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fee9f87657845d3a809471bea029c47d2b0117cdaa42fd55bf96ad56ff333239b",
-        "realName" : "송재희"
-      }, {
-        "characterName" : "박소현",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa42ef2c7a0e12ab3682585b403eb4c99cdde41bb91161ff22b5c15452f5f6644",
-        "realName" : "주새벽"
-      }, {
-        "characterName" : "조만식",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F005ecc7dc4e3be3abd7f7ebfd249915759b5f3ce4aeefeca85d9eb9ab24df797",
-        "realName" : "전헌태"
-      } ],
-      "content" : "30대 직장인들이 겪는 일과 사랑에 얽힌 이야기를 음식과 함께 풀어낸 리얼 맛집 드라마",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F53dfcc7866f3b25afac9966856ec796475c95cf3b46dd03788e9d17def340d80",
-      "dramaName" : "단짠 오피스",
-      "rate" : "",
-      "recommendTitle" : [ "위풍당당 그녀2003년", "네 자매 이야기2001년", "홍콩 익스프레스2005년", "꽃 피어라 달순아!2017년 ~ 2018년", "시골경찰2017년 ~" ]
     },
     "-MBdtZXNmr9kUVNW23V2" : {
       "broadcast" : "OCN",
@@ -11937,7 +11737,8 @@
       "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F5b0a2d147e22ea44b8a6862ad448556cb5c591216ab4f90b33c797659b17eec3",
       "dramaName" : "시간이 멈추는 그때",
       "rate" : "",
-      "recommendTitle" : [ "도시정벌", "드림하이2011년", "장난스런 키스2010년", "감격시대: 투신의 탄생2014년", "열두밤2018년" ]
+      "recommendTitle" : [ "도시정벌", "드림하이2011년", "장난스런 키스2010년", "감격시대: 투신의 탄생2014년", "열두밤2018년" ],
+      "url" : "#"
     },
     "-MBdtZbNPXe2Ggy5FLJE" : {
       "broadcast" : "MBN",
@@ -12508,13 +12309,6 @@
       "recommendTitle" : [ "사의 찬미2018년", "상류사회2015년", "앙큼한 돌싱녀2014년", "여우각시별2018년", "피노키오2014년 ~ 2015년" ],
       "url" : "https://programs.sbs.co.kr/drama/fatesandfuries/"
     },
-    "-MBdtZfNXkxEQ_BSqMJL" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "tvN 드라마 스테이지 2기",
-      "rate" : "",
-      "recommendTitle" : [ "위대한 쇼2019년", "변혁의 사랑2017년", "이번 생은 처음이라2017년", "청일전자 미쓰리2019년", "아르곤2017년" ]
-    },
     "-MBdtZfWDgniata6tOoX" : {
       "broadcast" : "채널A",
       "characters" : [ {
@@ -12696,35 +12490,6 @@
       "rate" : "17.1%",
       "recommendTitle" : [ "내일도 맑음2018년", "다시, 첫사랑2016년 ~ 2017년", "공항 가는 길2016년", "이름 없는 여자2017년", "천상여자2014년" ],
       "url" : "http://program.kbs.co.kr/2tv/drama/leftywife/pc/"
-    },
-    "-MBdtCiiI3KciT7ihR2g" : {
-      "broadcast" : "드라맥스",
-      "characters" : [ {
-        "characterName" : "박최고",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F43eb5b377a3287fdf2abfb4602b99bd115dfa019c92053056c30f0dee15bfb2d",
-        "realName" : "박선호"
-      }, {
-        "characterName" : "서보아",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ffaaa5584ffddb7fe54534b6937e92cf9b2ad58ae36cc18e7e83c746787655a63",
-        "realName" : "김소혜"
-      }, {
-        "characterName" : "앤드류 강",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4d452bf3dadc714656eb2be0bdb2714d63e213220b4a389a9ed3323f50acf4bc",
-        "realName" : "주우재"
-      }, {
-        "characterName" : "박준혁",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3297c2f38b71c812200b51e4ebe6a0b09b24257a8bd654733bdf09269b9c3de3",
-        "realName" : "이승협"
-      }, {
-        "characterName" : "서명동",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4e4e6a2e1f4f10bb941079610840a0ad12dafc08074aea69fc1113fede71bf3b",
-        "realName" : "동방우"
-      } ],
-      "content" : "치킨집 운영이 꿈인 대기업 사원과 할아버지에게서 이어받은 목욕탕에 은둔하는 웹툰 작가 지망생의 성장 스토리를 그린 드라마",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb07a0792a2434e4d87955b52a6d85fe99126844b855b857e8e471d3a9f0db663",
-      "dramaName" : "최고의 치킨",
-      "rate" : "",
-      "recommendTitle" : [ "강남 스캔들2018년 ~ 2019년", "사랑해, 울지마2008년 ~ 2009년", "그녀로 말할 것 같으면2018년", "톱스타 유백이2018년 ~ 2019년", "눈이 부시게2019년" ]
     },
     "-MBdtCj3ZTYsyvriTHjG" : {
       "broadcast" : "tvN",
@@ -12944,34 +12709,6 @@
       "recommendTitle" : [ "사의 찬미2018년", "어비스2019년", "W2016년", "두번째 스무살2015년", "닥터 이방인2014년" ],
       "url" : "http://program.tving.com/tvn/bonusbook"
     },
-    "-MBdtCldkaRqrisapl3N" : {
-      "broadcast" : "tvN",
-      "characters" : [ {
-        "characterName" : "영훈",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2b8454abc05f074f99cc8a877158f2786c30f26d665327949d9d584abc42d357",
-        "realName" : "서지훈"
-      }, {
-        "characterName" : "승봉",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6c27a37b893ba2fc8c3b921840df72da07b08093e65209c64ed1c6962df0e5bf",
-        "realName" : "안보현"
-      }, {
-        "characterName" : "대준",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0d22333a7d8d30e3f7448324ac911c9e9779f629b42b8ba784a784943d555c37",
-        "realName" : "허지원"
-      }, {
-        "characterName" : "태경",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F881eb34025e638e76233d673280ef433a0979085a00226d2878d8f93bb294729",
-        "realName" : "권혁범"
-      }, {
-        "characterName" : "준영",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa6a9453ebc4ebbdb657e1bc595023896cf766debe0a73b9fd577650afc3dd6f5",
-        "realName" : ""
-      } ],
-      "content" : "4년 전, 치기 어린 선택으로 어긋나기 시작한 우정. 소년에서 어른이 되어가는 청춘들의 지독한 성장담을 그린 드라마",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbbd3a96d77944389c6fdaa37b5543671546203c3f6948a60f5aae7c903386cad",
-      "dramaName" : "반야",
-      "rate" : ""
-    },
     "-MBdtClutdZKylAnsbHb" : {
       "broadcast" : "TV조선",
       "characters" : [ {
@@ -13000,32 +12737,6 @@
       "dramaName" : "바벨",
       "rate" : "3.713%",
       "url" : "http://broadcast.tvchosun.com/broadcast/program/1/C201800133.cstv"
-    },
-    "-MBdtCm6z-B475ra5Msw" : {
-      "broadcast" : "FX Networks",
-      "characters" : [ {
-        "characterName" : "크리스 록",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Fcfile166.uf.daum.net%2Fimage%2F114579464E5DF13B1F481C",
-        "realName" : ""
-      }, {
-        "characterName" : "",
-        "realName" : ""
-      }, {
-        "characterName" : "앤드류 버드",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Fcfile169.uf.daum.net%2Fimage%2F161A59364EC38D6E2FB906",
-        "realName" : ""
-      }, {
-        "characterName" : "",
-        "realName" : ""
-      }, {
-        "characterName" : "메리 엘리자베스 윈스티드",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Fcfile166.uf.daum.net%2Fimage%2F21353E3456F37BD4135240",
-        "realName" : ""
-      } ],
-      "content" : "코엔 형제의 1996년작 동명 영화를 원작으로 제작된 TV 시리즈",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F751a33a32941115a554b7d60b6f7a5dacd9c67ef60d66bda4443b2309ad0f0d4",
-      "dramaName" : "파고",
-      "rate" : ""
     },
     "-MBdtCmRikbcZVCcslWT" : {
       "broadcast" : "tvN",
@@ -13235,63 +12946,6 @@
       "rate" : "8.4%",
       "recommendTitle" : [ "대박2016년", "육룡이 나르샤2015년 ~ 2016년", "장옥정, 사랑에 살다2013년", "대풍수2012년 ~ 2013년", "일지매2008년" ],
       "url" : "https://programs.sbs.co.kr/drama/haechi/"
-    },
-    "-MBdtCoH14Ro3p42p5QB" : {
-      "broadcast" : "UMAX",
-      "characters" : [ {
-        "characterName" : "송유빈",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9912e7b8a18cb7561ad3868c5343c55cc83a216bb279e34fe9e0e50a6c230c50",
-        "realName" : ""
-      }, {
-        "characterName" : "권민아",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9cf11e3563dda7b1f202756b6335d63db8bc90636c6752ee3653e0ac4450da2b",
-        "realName" : ""
-      }, {
-        "characterName" : "장동주",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc46abd6d6d85aece202d467c57b4de5dca67375cf1b15a2bf5b8d4fe6ed39931",
-        "realName" : ""
-      }, {
-        "characterName" : "오정연",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Fcfile169.uf.daum.net%2Fimage%2F235C9B3C55EFEAEA0C62A9",
-        "realName" : ""
-      }, {
-        "characterName" : "김진우",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Fcfile70.uf.daum.net%2Fimage%2F270BAC3B5719B6870C9ED4",
-        "realName" : ""
-      } ],
-      "content" : "갑작스러운 사고로 죽음을 앞둔 이들이 저승심판들로부터 이승의 추가시간을 부여 받고, 그들이 생의 마지막 기회를 어떻게 살아내는지를 관전하는 감성 로맨스 판타지 드라마",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff973f71089aba615736a40ffa18cb87513b96c5c1fb593669105ca7c2662031e",
-      "dramaName" : "로스:타임:라이프 - 더 라스트 찬스",
-      "rate" : "",
-      "recommendTitle" : [ "365 Wan Haeng Rak2010년", "Kularb Satan2011년", "Rahut Torachon2011년", "Ploeng Torranong2011년", "Roy Marn2011년" ]
-    },
-    "-MBdtCoVukUv4zI6TLV3" : {
-      "broadcast" : "투니버스",
-      "characters" : [ {
-        "characterName" : "구하리",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1ddaf0d10eb23471432341db820a9c0281fb1488992256abf56efe3c4849dab7",
-        "realName" : "박지예"
-      }, {
-        "characterName" : "최강림",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6bcdabda257ab0adfb6888cc5d5b530733996adcc7015a3186cbf2cf328de52f",
-        "realName" : "현준"
-      }, {
-        "characterName" : "이가은",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F27931e1fa534bd5672b080e283640c7870592b35f53887bfed4673a1c67b8f5f",
-        "realName" : "장소정"
-      }, {
-        "characterName" : "김현우",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F7b15890f935888ffe31e3b13ae61d0c46427d1449d781658bd2c3820afcd4773",
-        "realName" : "정성영"
-      }, {
-        "characterName" : "구하리",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1ddaf0d10eb23471432341db820a9c0281fb1488992256abf56efe3c4849dab7",
-        "realName" : "박지예"
-      } ],
-      "content" : "겨울방학을 맞은 아이들이 산속 펜션에 놀러 가 겪는 오싹한 경험을 담은 드라마",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1b5ecbad53c62f03e1cf6b3312ff07a7fb5bcffc691453ff8881175acd6ded01",
-      "dramaName" : "신비아파트 외전: 기억, 하리 2",
-      "rate" : ""
     },
     "-MBdtCopkHQMNLXkVGHz" : {
       "broadcast" : "SBS",
@@ -13651,34 +13305,6 @@
       "rate" : "8.4%",
       "recommendTitle" : [ "변혁의 사랑2017년", "그녀는 예뻤다2015년", "특별근로감독관 조장풍2019년", "오! 마이 레이디2010년", "으라차차 와이키키 시즌22019년" ],
       "url" : "http://program.kbs.co.kr/2tv/drama/myfellowcitizens/pc/"
-    },
-    "-MBdtCtuMq9rarheDVos" : {
-      "broadcast" : "JTBC4",
-      "characters" : [ {
-        "characterName" : "한대강",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1d27f0bfd33898a8e5772e39901364d03fa65696f0a27c516aa5bacb793805ae",
-        "realName" : "재민"
-      }, {
-        "characterName" : "오미리",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Faa6dea527b0bf5fa200aeaf8f9d34c834f1b2d53569137538fbed28cf39f1834",
-        "realName" : "김지인"
-      }, {
-        "characterName" : "이다솜",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fe0ede3769ef2c2e364c557563a65a3eef2cb40b1856bc747d476b87f5411c090",
-        "realName" : "김유진"
-      }, {
-        "characterName" : "고은태",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F89f7f00638af00840242abf617d8a42742c1f9a5073b73975d98357c48d83972",
-        "realName" : "이종원"
-      }, {
-        "characterName" : "한대강",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1d27f0bfd33898a8e5772e39901364d03fa65696f0a27c516aa5bacb793805ae",
-        "realName" : "재민"
-      } ],
-      "content" : "베프의 남친을 좋아하게 된 미리의 마음 회수 분투기",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4a984d13e1da51c071387e296ed4cd3de15932452f8321cf86e9716de836dfd1",
-      "dramaName" : "너를 싫어하는 방법",
-      "rate" : ""
     },
     "-MBdtCu6cDn_dKr2XWMx" : {
       "broadcast" : "JTBC",
@@ -14455,35 +14081,6 @@
       "recommendTitle" : [ "제3의 매력2018년", "안투라지2016년", "킬잇2019년", "미스터 기간제2019년", "모두의 거짓말2019년" ],
       "url" : "http://program.tving.com/ocn/watcher/"
     },
-    "-MBdtD0_XEcbvyZsoNjJ" : {
-      "broadcast" : "드라맥스",
-      "characters" : [ {
-        "characterName" : "안단테",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6be1b92e52007d92ad5a56d106d152bdc14d1c1a8cf662fc818fafa14227e6bb",
-        "realName" : "성훈"
-      }, {
-        "characterName" : "신연화",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F97a2d75178867b3172d87535efd03e6c2c3189820ebe579b0706258c6a1570d1",
-        "realName" : "한보름"
-      }, {
-        "characterName" : "곽한철",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ffd402a9c8fcf2947d2b445c2dbfe34754b9f138d7dd00142e431198f52cfbf14",
-        "realName" : "차선우"
-      }, {
-        "characterName" : "배야채",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6ba956c52be69f1aa7b201c14aa55eea24f6e3b1a62d98bd8964ef60a3db88d3",
-        "realName" : "강별"
-      }, {
-        "characterName" : "박실장",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F200c8690bdd62714fdb0f6b7cb8da2a0ffd91ef476f2857fc1604b18a3b887c7",
-        "realName" : "데니안"
-      } ],
-      "content" : "회생율 100%의 구조조정 전문가 안단테와 게임 덕후 신연화가 부도난 게임 회사를 살릴 신작 출시를 위해 고군분투하는 이야기를 그린 로맨틱 코미디 드라마",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F110777fd8c4b90c2dbdf12fbb1990f14cb0ed2c418431e5f26e885782fef58ba",
-      "dramaName" : "레벨업",
-      "rate" : "",
-      "recommendTitle" : [ "고결한 그대2015년", "애타는 로맨스2017년", "닥터 탐정2019년", "오 마이 비너스2015년 ~ 2016년", "웰컴2라이프2019년" ]
-    },
     "-MBdtD0pK0Oxo9bNBR_T" : {
       "broadcast" : "tvN",
       "characters" : [ {
@@ -14754,63 +14351,6 @@
       "recommendTitle" : [ "미스터 기간제2019년", "닥터 탐정2019년", "의사요한2019년", "좋아하면 울리는2019년 ~", "초면에 사랑합니다2019년" ],
       "url" : "http://tv.jtbc.joins.com/ateighteen/"
     },
-    "-MBdtD30XDdcM2VUq3ES" : {
-      "broadcast" : "",
-      "characters" : [ {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F968787a167dc425e36f9a91cd7b176d01e24c44fc5b00d7143246ec3d688c415",
-        "realName" : "이나은"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F57301a2a9400bc80c8cc8c25700a995cb5a64a6318ddc8b89e0a1501487903a8",
-        "realName" : "신예은"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F7300a58fd0e8ea030d95821599233700b8aabdf2cc31ecef8101efccfd17e1c4",
-        "realName" : "최보민"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fcf1c8f433ea0d0da5bd769b1235663f2590eae152ff324bd95de2ff00c3e45e0",
-        "realName" : "김동희"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fe5fb4af87818a1f3ad026e49b3e098b69d8ceb4e7772a14b7f6155a91a07b0dd",
-        "realName" : "류의현"
-      } ],
-      "content" : "인생의 모든 것을 결정해 버릴 것 같은 대학수학능력시험을 앞두고 겪는 갈등과 고민, 그리고 그 과정에서 겪는 많은 선택의 순간을 현실적으로 그린 드라마",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4face142d703b0d6f57bc95355aaeb813bbef18d1f06ec9b09ac8e1e14bd3338",
-      "dramaName" : "에이틴",
-      "rate" : "",
-      "recommendTitle" : [ "사이코메트리 그녀석2019년", "인간수업2020년", "어쩌다 발견한 하루2019년", "SKY 캐슬2018년 ~ 2019년", "열여덟의 순간2019년" ]
-    },
-    "-MBdtD39FeO4b1Dwz7ei" : {
-      "broadcast" : "",
-      "characters" : [ {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F968787a167dc425e36f9a91cd7b176d01e24c44fc5b00d7143246ec3d688c415",
-        "realName" : "이나은"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F57301a2a9400bc80c8cc8c25700a995cb5a64a6318ddc8b89e0a1501487903a8",
-        "realName" : "신예은"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F7300a58fd0e8ea030d95821599233700b8aabdf2cc31ecef8101efccfd17e1c4",
-        "realName" : "최보민"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fcf1c8f433ea0d0da5bd769b1235663f2590eae152ff324bd95de2ff00c3e45e0",
-        "realName" : "김동희"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fe5fb4af87818a1f3ad026e49b3e098b69d8ceb4e7772a14b7f6155a91a07b0dd",
-        "realName" : "류의현"
-      } ],
-      "content" : "인생의 모든 것을 결정해 버릴 것 같은 대학수학능력시험을 앞두고 겪는 갈등과 고민, 그리고 그 과정에서 겪는 많은 선택의 순간을 현실적으로 그린 드라마",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4face142d703b0d6f57bc95355aaeb813bbef18d1f06ec9b09ac8e1e14bd3338",
-      "dramaName" : "에이틴 시즌 2",
-      "rate" : ""
-    },
     "-MBdtD3PTPMeah27yspA" : {
       "broadcast" : "tvN",
       "characters" : [ {
@@ -14840,64 +14380,6 @@
       "rate" : "3.066%",
       "recommendTitle" : [ "나인룸2018년", "어비스2019년", "하늘에서 내리는 일억 개의...2018년", "계룡선녀전2018년", "세상에서 가장 아름다운 이별2017년" ],
       "url" : "http://program.tving.com/tvn/thedevilscall/"
-    },
-    "-MBdtD43oAsDM-LHF1bC" : {
-      "broadcast" : "투니버스",
-      "characters" : [ {
-        "characterName" : "가온",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb9287523f8812fa8da1076b196f43d93701a494916ce0bfa26c93cedf6b042a4",
-        "realName" : "이일준"
-      }, {
-        "characterName" : "한결",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F155b17bb076617e791be7f465876badb157efc42599daf588b36079226a8ed4c",
-        "realName" : "주시현"
-      }, {
-        "characterName" : "마루",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F5c9f68bd5926d7f91759f9602c4ddf0e8f10045de72f0ecc4f98cdfe7c51188e",
-        "realName" : ""
-      }, {
-        "characterName" : "토리",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F306558017e89b64066c946a9104cff1e51554d54ed5571f07ea3f9a39b62983c",
-        "realName" : "은별"
-      }, {
-        "characterName" : "크리스",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff22f89b67369c4f75226b29559f2af7939e3c7585ad78b39b743a9cd274d5b67",
-        "realName" : "줄리엔 강"
-      } ],
-      "content" : "우주를 수호하는 사방신(四方神)의 선택을 받은 4명의 전사들이 흑마군단과 맞서 싸우며 지구를 지키는 이야기를 그린 프로그램",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F5d350d9fbfc2222e6e7a2209f2425902b3abead4526d32c7fbb58a32ab979c82",
-      "dramaName" : "엑스가리온",
-      "rate" : "",
-      "recommendTitle" : [ "지구용사 벡터맨1998년 ~", "레전드히어로 삼국전2016년 ~", "시공전기 레이포스2010년 ~", "수호전사 맥스맨2004년 ~", "디지몬 유니버스 어플리 몬...2016년 ~" ]
-    },
-    "-MBdtD4MkCz2j3uKgUl8" : {
-      "broadcast" : "네이버TV",
-      "characters" : [ {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2637590cca56e695667dd5d169d6316d8288a1d7d6a472616627246db9b1a804",
-        "realName" : "민도희"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3c1188eba188f073b5b05f1e083059b5b6cf8d6b41275c0623827400c2aebd4d",
-        "realName" : "장영남"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa8366dc9c9c9ba3ca01979ccd02cc35ab68b13d78b8c6ee63936fe21eac17403",
-        "realName" : "려운"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F5c424ecffd3269f52758fa81c29015ff706c88166624640c91883cb19faaebea",
-        "realName" : "진예주"
-      }, {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Fcfile167.uf.daum.net%2Fimage%2F23780739594206BE3ECA7A",
-        "realName" : "정은표"
-      } ],
-      "content" : "엄마와 단둘이 살고 있는 고3 수험생 다미가 인서울 대학 진학을 목표로 잡게 되면서 벌어지는 성장 드라마",
-      "dramaImg" : "//search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F601468bf137c7755793eb8e27df9102f586e15092b1f5b0b401d888ef9b69260",
-      "dramaName" : "인서울 - 내가 독립하는 유일한 방법",
-      "rate" : "",
-      "recommendTitle" : [ "최고의 엔딩", "하지 말라면 더 하고 19", "열일곱2017년 ~", "엑스엑스(XX)2020년", "통통한 연애" ]
     },
     "-MBdtD4aYAx5vusGJu1q" : {
       "broadcast" : "MBC",
@@ -16219,12 +15701,6 @@
       "recommendTitle" : [ "더 게임: 0시를 향하여2020년", "본 대로 말하라2020년", "나 홀로 그대2020년", "포레스트2020년", "아무도 모른다2020년" ],
       "url" : "http://program.tving.com/tvn/moneygame/"
     },
-    "-MBdsvyg0BitmTDa76oP" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "신비아파트 외전: 연애공식 구하리",
-      "rate" : ""
-    },
     "-MBdsvz8e0klq0ax8MF9" : {
       "broadcast" : "MBC",
       "characters" : [ {
@@ -16820,13 +16296,6 @@
       "rate" : "2.7%",
       "recommendTitle" : [ "죽어도 좋아2018년", "사랑은 뷰티풀 인생은 원더풀2019년 ~ 2020년", "당신의 하우스헬퍼2018년", "좋아하면 울리는2019년 ~", "학교 20172017년" ],
       "url" : "http://program.kbs.co.kr/2tv/drama/howtobuyafriend"
-    },
-    "-MBdsw6RS6q6B-t4bsZ7" : {
-      "broadcast" : "",
-      "content" : "",
-      "dramaName" : "더 킹 : 영원의 군주",
-      "rate" : "",
-      "recommendTitle" : [ "신의2012년", "푸른 바다의 전설2016년 ~ 2017년", "하이바이, 마마!2020년", "도깨비2016년 ~ 2017년", "미스터 션샤인2018년" ]
     },
     "-MBdsw6iT-UHKX39GIcz" : {
       "broadcast" : "KBS2",

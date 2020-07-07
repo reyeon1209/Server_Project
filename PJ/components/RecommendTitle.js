@@ -2,9 +2,7 @@ const RecommendTitle = (recommendTitle) => {
   return `
         <div>
         <div class="card card-outline-secondary my-4">
-        <div class="card-header">
-            추천드라마
-        </div>
+        <div class="card-header">추천드라마</div>
         <div class="card-body">
             <p>${recommendTitle[0]}</p>
             <small class="text-muted"></small>

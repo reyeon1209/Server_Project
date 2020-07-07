@@ -1,6 +1,6 @@
 const data = require('../data/DB.json');
 
-const fetchData = (isOnAir, year) => {
+const FetchData = (isOnAir, year) => {
   let key;
   if (isOnAir === true || isOnAir === 'true') {
     key = 'onAir';
@@ -13,7 +13,6 @@ const fetchData = (isOnAir, year) => {
   dramaArray.sort(function(a, b){
     return parseFloat(a.rate) > parseFloat(b.rate) ? -1 : parseFloat(a.rate) < parseFloat(b.rate) ? 1 : 0;
   });
-  console.log(dramaArray);
   return dramaArray;
 };
-module.exports = fetchData;
+module.exports = FetchData;

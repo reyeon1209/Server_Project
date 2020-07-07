@@ -1,8 +1,8 @@
-const getTitle = require('../components/getTitle');
-const getBanner = require('../components/getBanner');
+const GetTitle = require('../components/GetTitle');
+const GetBanner = require('../components/GetBanner');
 const Footer = require('../components/Footer');
 const DramaCell = require('../components/DramaCell');
-const fetchData = require('../src/fetchData');
+const FetchData = require('../src/FetchData');
 
 const dataToCell = (dramaData, isOnAir, idx) => {
   const dramaImg = dramaData.dramaImg;
@@ -15,7 +15,7 @@ const OnAirDramaGrid = () => {
 
   const IS_ON_AIR = true;
 
-  const onAirData = fetchData(true);
+  const onAirData = FetchData(true);
   const DramaCellArray = onAirData.map((oneDramaData, idx) =>
     dataToCell(oneDramaData, IS_ON_AIR, idx)
   );
@@ -37,7 +37,7 @@ const Home = () => {
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title></title>
+    <title>dramarket</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/vendor/bootstrap/css/bootstrap.css" rel="stylesheet" />
@@ -61,13 +61,13 @@ const Home = () => {
   </head>
 
   <body>
-    ${getTitle()}
+    ${GetTitle()}
     <!-- Page Content -->
     <div class="container pad">
       <div class="row">
 
         <div class="col-lg-12">
-          ${getBanner()}
+          ${GetBanner()}
 
           <section id="contents">
             <div class="row">

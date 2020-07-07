@@ -1,6 +1,6 @@
 const getBanner = () => {
     return `
-            			<section id="banner">
+          <section id="banner">
     				<div class="inner">
 
               <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel">
@@ -29,8 +29,6 @@ const getBanner = () => {
                   <span class="sr-only">Next</span>
                 </a>
               </div>
-
-
     				</div>
     			</section>
 
