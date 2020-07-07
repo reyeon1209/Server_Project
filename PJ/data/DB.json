@@ -16888,24 +16888,24 @@
     "-MBdsRU2wA6h0eUFTgFi" : {
       "broadcast" : "tvN",
       "characters" : [ {
-        "characterName" : "",
-        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbf4b25ccab7f0fee844627938c7c12fc1db6e0bee44d48ae52abe02fe0c88b47",
-        "realName" : "김수현"
-      }, {
         "characterName" : "문강태",
         "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb5da49f1d6c01b0751534d40cf49facb29172f46d3f5de4bdc0733a5f71d5868",
-        "realName" : "서예지"
+        "realName" : "김수현"
       }, {
         "characterName" : "고문영",
         "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0782d299b2b6056874edfa7cb90f504929e62104c9c07c30af39abd6047e3949",
-        "realName" : "오정세"
+        "realName" : "서예지"
       }, {
         "characterName" : "문상태",
         "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F8c1b94635aa2e1d75de84ea625fb5f94e4aec1884946fda8e505c1e3b0615f49",
-        "realName" : "박규영"
+        "realName" : "오정세"
       }, {
         "characterName" : "남주리",
         "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F400205c28634097cdf8489b274b69561c1f284c5c5e7664391ad75973f401086",
+        "realName" : "박규영"
+      }, {
+        "characterName" : "이상인",
+        "img" : "//search1.kakaocdn.net/thumb/C116x116.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F5ea54385a03a79668e70bb4491d0a5a888e3ceee81623838ed7b06d76557480e",
         "realName" : "김주헌"
       } ],
       "content" : "버거운 삶의 무게로 사랑을 거부하는 정신 병동 보호사 강태와 태생적 결함으로 사랑을 모르는 동화 작가 문영이 서로의 상처를 보듬고 치유해가는 한 편의 판타지 동화 같은 사랑에 관한 조금 이상한 로맨틱 코미디",
