@@ -1,0 +1,23 @@
+{
+  "name": "web_study",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"https://github.com/reyeon1209/Web_Study\">     <img src=\"https://user-images.githubusercontent.com/46713032/83448084-654ad080-a48c-11ea-943f-31dadb5efbaa.png\" alt=\"Web Logo\" width=\"72\" height=\"72\">   </a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyeon1209/Web_Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyeon1209/Web_Study/issues"
+  },
+  "homepage": "https://github.com/reyeon1209/Web_Study#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-static": "^1.2.6"
+  }
+}
