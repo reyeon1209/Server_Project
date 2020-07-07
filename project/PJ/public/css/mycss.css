@@ -1,0 +1,17 @@
+.logo{
+  width: 200px;
+  height: auto;
+}
+
+.pad{
+  padding-top : 50px;
+}
+
+.mar{
+  margin-top: 50px;
+}
+
+.mycol1{
+  background-color: #4686a0;
+  background-image: url("overlay2.png"), url("overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
+}
