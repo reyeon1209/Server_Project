@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<h3 align="center">드라마켓 서비스</h3>
-
 <p align="center">
   Sejong University Server Programming in 2020
 </p>
