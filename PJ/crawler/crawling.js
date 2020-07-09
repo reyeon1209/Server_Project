@@ -124,7 +124,7 @@ function daum(dramaName) {
             if (typeof broadcast == "undefined") broadcast = null;
             if (typeof content == "undefined") content = null;
             if (typeof rate == "undefined") rate = null;
-            if (typeof url == "undefined") url = null;
+            if (typeof url == "undefined") url = "#";
 
             var resultObject = {
                 dramaName,
