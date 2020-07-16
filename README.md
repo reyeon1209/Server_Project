@@ -58,7 +58,10 @@
 
 
 ## 실행 화면
-추가 예정
+
+![1](https://user-images.githubusercontent.com/46713032/87664120-b34b3780-c79f-11ea-94b0-cb1be8df2448.gif)
+
+![2](https://user-images.githubusercontent.com/46713032/87664132-b6debe80-c79f-11ea-9888-3fd49162f571.gif)
 
 
 ## 실행 방법
